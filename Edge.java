@@ -10,5 +10,4 @@ public class Edge <Vertex>{
         this.dest = dest;
         this.weight = weight;
     }
-
 }
